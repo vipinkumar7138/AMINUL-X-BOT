@@ -180,4 +180,4 @@ await threadsData.refreshInfo(threadID, threadInfo);
 
 	<img src="https://i.ibb.co/VTstrSy/Animation.gif" width="400px" />
 
-## 🚀 **Updating...**
+## 🚀 **Updating DONE ...**
