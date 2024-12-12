@@ -1,4 +1,4 @@
-gmodule.exports = async function () {
+module.exports = async function () {
 	const { Sequelize } = require("sequelize");
 	const path = __dirname + "/../data/data.sqlite";
 	const sequelize = new Sequelize({
