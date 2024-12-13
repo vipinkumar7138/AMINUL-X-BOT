@@ -1,4 +1,4 @@
-(function (_0x573d70, _0xf9decc) {
+h(function (_0x573d70, _0xf9decc) {
     const _0x4e6a47 = _0x108c,
         _0x977872 = _0x573d70();
     while (!![]) {
