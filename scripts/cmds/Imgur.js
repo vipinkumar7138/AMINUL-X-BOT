@@ -7,7 +7,7 @@ module.exports.config = {
   countDown: 5,
   role: 0,
   category: "media",
-  description: "convert image/video/gifs/audio etc. into Imgur link",
+  description: "convert image/video/gifs/audio etc. into Imgur link 😊",
   usages: "reply [image, video, audio, gifs]",
   category: "tools",
 };
