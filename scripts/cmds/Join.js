@@ -9,7 +9,7 @@ module.exports = {
 		author: "Kshitiz",
 		countDown: 5,
 		role: 0,
-		shortDescription: "Join the group that bot is in",
+		shortDescription: "Join the group that bot is in you want",
 		longDescription: "",
 		category: "owner",
 		guide: {
