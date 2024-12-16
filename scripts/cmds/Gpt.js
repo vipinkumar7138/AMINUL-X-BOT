@@ -17,7 +17,7 @@ module.exports = {
   config: {
     name: "gpt",
     version: "1.2",
-    author: "Ntkhang",
+    author: "Ntkhangg",
     countDown: 5,
     role: 0,
     description: {
