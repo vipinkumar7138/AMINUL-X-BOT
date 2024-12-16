@@ -31,7 +31,7 @@ module.exports = {
     author: 'Vex_Kshitiz',
     countDown: 5,
     role: 0,
-    shortDescription: 'Auto video downloader for Instagram, Facebook, TikTok, Twitter, pinterest and youtube',
+    shortDescription: 'Auto video downloader for Instagram, Facebook, TikTok, Twitter, pinterest, and youtube',
     longDescription: '',
     category: 'media',
     guide: {
