@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100071880593545",
+    "100000248882431",
     ""
   ],
   "whiteListMode": {
@@ -30,7 +30,7 @@
   "GENDER": "MALE",
   "nickNameBot": "𝐀𝐌𝐈𝐍𝐔𝐋-𝐁𝐎𝐓",
   "FACEBOOK": "https://www.facebook.com/br4nd.abir.your.next.bf.jan",
-  "prefix": "#",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -41,15 +41,15 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "aminulsordar04@gmail.com",
-      "clientId": "335951889803-q0sqvpqjire12vl0c1drqpvq6trqe7qi.apps.googleusercontent.com",
-      "clientSecret": "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",
-      "refreshToken": "1//04vKSsirtbMjRCgYIARAAGAQSNwF-L9Ir45Y2gJy6rg7wvfCbzF5fTFQxOhV83N6jQC-N5n6S-rNnEUgujiuWu4OvrLEbmELMcSI",
+      "email": "ashish713914@gmail.com",
+      "clientId": "502503150905-j0o0rhh0qbd5o5ll8qspla2rl7nm6le6.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//04fRn2RN4VZmWCgYIARAAGAQSNwF-L9Ir3i3Y0krk8IXfIhaCiCsBh38azKkfpsJ421zIuO6Vbzyyg7DJMI6Wb66jyjHtQOwXW1c",
       "apiKey": ""
     },
     "gRecaptcha": {
-      "siteKey": "6LcEPTMpAAAAAKRhQmTp03g4rkq-U6jXs8E8rDf5",
-      "secretKey": "6LcEPTMpAAAAAKRhQmTp03g4rkq-U6jXs8E8rDf5"
+      "siteKey": "6Ldg5qYrAAAAAFQAuTEJMYIcvDwcRCnQzW4_NEGv",
+      "secretKey": "6Ldg5qYrAAAAAOG_phVzWNs7Mys7j67XGeTO3t"
     }
   },
   "dashBoard": {
